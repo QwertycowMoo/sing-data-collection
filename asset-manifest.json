@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sing-data-collection/static/css/main.073c9b0a.css",
+    "main.js": "/sing-data-collection/static/js/main.a3bafed9.js",
+    "static/js/787.e97006ff.chunk.js": "/sing-data-collection/static/js/787.e97006ff.chunk.js",
+    "static/media/logo.svg": "/sing-data-collection/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sing-data-collection/index.html",
+    "main.073c9b0a.css.map": "/sing-data-collection/static/css/main.073c9b0a.css.map",
+    "main.a3bafed9.js.map": "/sing-data-collection/static/js/main.a3bafed9.js.map",
+    "787.e97006ff.chunk.js.map": "/sing-data-collection/static/js/787.e97006ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a3bafed9.js"
+  ]
+}
